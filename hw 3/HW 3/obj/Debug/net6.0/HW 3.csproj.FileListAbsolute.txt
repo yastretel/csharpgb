@@ -1,0 +1,15 @@
+D:\Work GB\C#\Les 1\hw 3\HW 3\bin\Debug\net6.0\HW 3.exe
+D:\Work GB\C#\Les 1\hw 3\HW 3\bin\Debug\net6.0\HW 3.deps.json
+D:\Work GB\C#\Les 1\hw 3\HW 3\bin\Debug\net6.0\HW 3.runtimeconfig.json
+D:\Work GB\C#\Les 1\hw 3\HW 3\bin\Debug\net6.0\HW 3.dll
+D:\Work GB\C#\Les 1\hw 3\HW 3\bin\Debug\net6.0\HW 3.pdb
+D:\Work GB\C#\Les 1\hw 3\HW 3\obj\Debug\net6.0\HW 3.csproj.AssemblyReference.cache
+D:\Work GB\C#\Les 1\hw 3\HW 3\obj\Debug\net6.0\HW 3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work GB\C#\Les 1\hw 3\HW 3\obj\Debug\net6.0\HW 3.AssemblyInfoInputs.cache
+D:\Work GB\C#\Les 1\hw 3\HW 3\obj\Debug\net6.0\HW 3.AssemblyInfo.cs
+D:\Work GB\C#\Les 1\hw 3\HW 3\obj\Debug\net6.0\HW 3.csproj.CoreCompileInputs.cache
+D:\Work GB\C#\Les 1\hw 3\HW 3\obj\Debug\net6.0\HW 3.dll
+D:\Work GB\C#\Les 1\hw 3\HW 3\obj\Debug\net6.0\refint\HW 3.dll
+D:\Work GB\C#\Les 1\hw 3\HW 3\obj\Debug\net6.0\HW 3.pdb
+D:\Work GB\C#\Les 1\hw 3\HW 3\obj\Debug\net6.0\HW 3.genruntimeconfig.cache
+D:\Work GB\C#\Les 1\hw 3\HW 3\obj\Debug\net6.0\ref\HW 3.dll

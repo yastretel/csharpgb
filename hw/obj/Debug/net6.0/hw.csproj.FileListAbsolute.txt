@@ -1,0 +1,15 @@
+D:\Work GB\C#\Les 1\hw\bin\Debug\net6.0\hw.exe
+D:\Work GB\C#\Les 1\hw\bin\Debug\net6.0\hw.deps.json
+D:\Work GB\C#\Les 1\hw\bin\Debug\net6.0\hw.runtimeconfig.json
+D:\Work GB\C#\Les 1\hw\bin\Debug\net6.0\hw.dll
+D:\Work GB\C#\Les 1\hw\bin\Debug\net6.0\hw.pdb
+D:\Work GB\C#\Les 1\hw\obj\Debug\net6.0\hw.csproj.AssemblyReference.cache
+D:\Work GB\C#\Les 1\hw\obj\Debug\net6.0\hw.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work GB\C#\Les 1\hw\obj\Debug\net6.0\hw.AssemblyInfoInputs.cache
+D:\Work GB\C#\Les 1\hw\obj\Debug\net6.0\hw.AssemblyInfo.cs
+D:\Work GB\C#\Les 1\hw\obj\Debug\net6.0\hw.csproj.CoreCompileInputs.cache
+D:\Work GB\C#\Les 1\hw\obj\Debug\net6.0\hw.dll
+D:\Work GB\C#\Les 1\hw\obj\Debug\net6.0\refint\hw.dll
+D:\Work GB\C#\Les 1\hw\obj\Debug\net6.0\hw.pdb
+D:\Work GB\C#\Les 1\hw\obj\Debug\net6.0\hw.genruntimeconfig.cache
+D:\Work GB\C#\Les 1\hw\obj\Debug\net6.0\ref\hw.dll

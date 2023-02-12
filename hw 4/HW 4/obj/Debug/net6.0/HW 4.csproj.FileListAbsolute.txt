@@ -1,0 +1,15 @@
+D:\Work GB\C#\Les 1\hw 4\HW 4\bin\Debug\net6.0\HW 4.exe
+D:\Work GB\C#\Les 1\hw 4\HW 4\bin\Debug\net6.0\HW 4.deps.json
+D:\Work GB\C#\Les 1\hw 4\HW 4\bin\Debug\net6.0\HW 4.runtimeconfig.json
+D:\Work GB\C#\Les 1\hw 4\HW 4\bin\Debug\net6.0\HW 4.dll
+D:\Work GB\C#\Les 1\hw 4\HW 4\bin\Debug\net6.0\HW 4.pdb
+D:\Work GB\C#\Les 1\hw 4\HW 4\obj\Debug\net6.0\HW 4.csproj.AssemblyReference.cache
+D:\Work GB\C#\Les 1\hw 4\HW 4\obj\Debug\net6.0\HW 4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work GB\C#\Les 1\hw 4\HW 4\obj\Debug\net6.0\HW 4.AssemblyInfoInputs.cache
+D:\Work GB\C#\Les 1\hw 4\HW 4\obj\Debug\net6.0\HW 4.AssemblyInfo.cs
+D:\Work GB\C#\Les 1\hw 4\HW 4\obj\Debug\net6.0\HW 4.csproj.CoreCompileInputs.cache
+D:\Work GB\C#\Les 1\hw 4\HW 4\obj\Debug\net6.0\HW 4.dll
+D:\Work GB\C#\Les 1\hw 4\HW 4\obj\Debug\net6.0\refint\HW 4.dll
+D:\Work GB\C#\Les 1\hw 4\HW 4\obj\Debug\net6.0\HW 4.pdb
+D:\Work GB\C#\Les 1\hw 4\HW 4\obj\Debug\net6.0\HW 4.genruntimeconfig.cache
+D:\Work GB\C#\Les 1\hw 4\HW 4\obj\Debug\net6.0\ref\HW 4.dll
